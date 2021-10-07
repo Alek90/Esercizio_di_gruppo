@@ -1,0 +1,28 @@
+cucinare un piatto di pasta.
+
+SE ho fame  
+    apro la credenza
+    scelgo una pentola
+    riempio la pentola di acqua
+    metto la pentola d'acqua sul fuoco
+    accendo il fornello
+    scelgo una padella
+    prendo un sugo pronto
+    apro il barattolo
+    verso il sugo nella padella
+    metto la padella sui fornelli
+    accendo il fornello per scaldare il sugo
+    scelgo un tipo di pasta
+    SE non ho la pasta
+        spengo tutti i fornelli
+        corro al supermercato
+        prendo la pasta
+        pago
+        corro a casa
+        riaccendo tutti i fornelli
+    peso la pasta
+    SE l'acqua bolle
+        butto il sale q.b.
+        butto la pasta
+        giro la pasta
+        aspetto    
